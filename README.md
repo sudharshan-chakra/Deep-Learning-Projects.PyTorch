@@ -3,5 +3,5 @@
 * All the code here is implemented using PyTorch. 
 
 ## Project List
-1. [Images] Cityscape Image Pairs Dataset - Semantic Segmentation with UNet [Add link]
-2. [Images] Human Protein (multiclass) Classification - Kaggle competition submission [Add link]
+1. [Images] Cityscape Image Pairs Dataset - Semantic Segmentation with UNet [[link](https://github.com/sudharshan-chakra/Deep-Learning-Projects.PyTorch/blob/master/1-semantic-segmentation-Autonomous-vehicles-UNet.ipynb)]
+2. [Images] Human Protein (multiclass) Classification - Kaggle competition submission [[link](https://github.com/sudharshan-chakra/Deep-Learning-Projects.PyTorch/blob/master/2-human-protein-classification.ipynb)]
