@@ -1,6 +1,6 @@
 # A collection of Deep Learning projects in PyTorch
 * This repo contains a set of practice projects to help improve my understanding of the domain. 
-* All the code here is implemented using PyTorch.
+* DL projects are implemented using PyTorch.
 * Data science projects are done using Pandas, MAtplotlib, and Seaborn
 
 ## Project List
