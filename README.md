@@ -1,7 +1,7 @@
 # A collection of Deep Learning projects in PyTorch
 * This repo contains a set of practice projects to help improve my understanding of the domain. 
 * DL projects are implemented using PyTorch.
-* Data science projects are done using Pandas, MAtplotlib, and Seaborn
+* Data science projects are done using Pandas, Matplotlib, and Seaborn
 
 ## Project List
 1. [Images] Cityscape Image Pairs Dataset - Semantic Segmentation with UNet [[link](https://github.com/sudharshan-chakra/Deep-Learning-Projects.PyTorch/blob/master/1-semantic-segmentation-Autonomous-vehicles-UNet.ipynb)]
